@@ -12,6 +12,6 @@ var searchInsert = function (nums, target) {
     else {
       low = mid + 1;
     } //exclude mid
-  }
+  }``
   return low;
 };
